@@ -6,11 +6,7 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 I love mariah carey and can’t wait to get her new album.
 
-<<<<<<< HEAD
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
 
 This is practice of making a change!
-=======
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
->>>>>>> parent of 1b4be89... editing done!
